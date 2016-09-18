@@ -1,0 +1,24 @@
+{
+  "name": "koshacarni",
+  "version": "1.0.0",
+  "description": "carni for KoSha",
+  "main": "app.js",
+  "dependencies": {
+    "alexa-app-server": "^2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metsnake217/KoSha_carni.git"
+  },
+  "author": "Gnagna Konate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metsnake217/KoSha_carni/issues"
+  },
+  "homepage": "https://github.com/metsnake217/KoSha_carni#readme"
+}
