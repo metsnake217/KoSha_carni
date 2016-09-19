@@ -1,6 +1,3 @@
-[submodule "apps/first-carni-skill"]
-	path = apps/first-carni-skill
-	url = https://github.com/metsnake217/KoSha_carni.git
-[submodule "apps/apps/first-carni-skill"]
-	path = apps/apps/first-carni-skill
-	url = https://github.com/metsnake217/KoSha_carni.git
+[submodule "apps/carni-skill"]
+	path = apps/carni-skill
+	url = https://github.com/metsnake217/carni-skill.git
